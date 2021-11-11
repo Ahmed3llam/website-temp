@@ -79,7 +79,7 @@ body {
 }
 /* Responsive Flexbox - for phone (screen less than 700px )*/
 @media screen and (max-width: 700px) {
-  .row, .navbar {   
+  .proj, .navbar {   
     flex-direction: column;
   }
 }
